@@ -1,0 +1,5 @@
+Edit the script index.sh to reference the filenames of both your BWT (in all
+capital letters) and your reads (each read on a new line, all caps). The
+indexer will store a file called index.txt after its first run so that it can
+run more quickly subsequent times. If you wish to run the program with a
+different BWT, be sure to delete index.txt beforehand.

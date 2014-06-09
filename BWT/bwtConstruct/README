@@ -1,0 +1,6 @@
+How to use:
+Edit the script construct.sh to reference the filepath where your genome files
+are stored. The format should be the same as the downloadable version from the
+website: 46 files with two throwaway lines at the top, numbered 1-46 .txt.
+
+Run the script, transform will contain the BWT.
